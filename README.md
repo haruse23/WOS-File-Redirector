@@ -1,7 +1,7 @@
 # WOS-File-Redirector
 Spider-Man: Web of Shadows File Redirector
 
-Inject the compiled DLL using any method you want, like using Injector as Extreme Injector, or using an ASI Loader. 
+Inject the compiled DLL using any method you want, like usinga DLL Injector as Extreme Injector, or using an ASI Loader. 
 
 Create a Folder called RedirectorTest and place your replacement files in it. What matters most is the file hash (in Little Endian Order) and the file component.
 
